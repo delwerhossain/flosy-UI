@@ -7,3 +7,5 @@ With Flosy-UI, you can easily create responsive layouts, typography, buttons, fo
 But what sets Flosy-UI apart is its focus on flexibility and customization. You can easily customize the appearance, behavior, and accessibility of each component and style using TailwindCSS's intuitive utility classes, or by extending and overriding our default styles using your own custom CSS. This allows you to create unique and consistent designs that match your brand and project requirements.
 
 Whether you're a beginner or an experienced web developer, Flosy-UI is the perfect choice for building modern, responsive, and accessible websites and applications that look great on any device. Try it out today and see how it can simplify your development workflow and enhance your user experience.
+
+### Thank You
